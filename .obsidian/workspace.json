@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Cloud Computing Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de1a142e433296b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. IAM - Identity & Access Management.md",
+                "file": "3. EC2 - Elastic Compute Cloud.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. IAM - Identity & Access Management.md",
+                "file": "3. EC2 - Elastic Compute Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. IAM - Identity & Access Management.md",
+                "file": "3. EC2 - Elastic Compute Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. IAM - Identity & Access Management.md"
+                "file": "3. EC2 - Elastic Compute Cloud.md"
               }
             }
           }
@@ -159,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de1a142e433296b0",
+  "active": "7442696c9cd2a004",
   "lastOpenFiles": [
-    "1. Cloud Computing Basics.md",
     "2. IAM - Identity & Access Management.md",
+    "3. EC2 - Elastic Compute Cloud.md",
+    "1. Cloud Computing Basics.md",
+    "Groups.md",
     "Imgs",
     "Imgs/Pasted image 20230713193003.png"
   ]
