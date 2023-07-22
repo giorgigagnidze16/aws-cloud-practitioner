@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6853e02635788fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Databases & Analytics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Amazon S3.md",
+                "file": "7. Databases & Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Amazon S3.md",
+                "file": "7. Databases & Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Amazon S3.md"
+                "file": "7. Databases & Analytics.md"
               }
             }
           }
@@ -159,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cdcba360dc890a0",
+  "active": "6853e02635788fef",
   "lastOpenFiles": [
-    "1. Cloud Computing Basics.md",
     "6. Amazon S3.md",
+    "7. Databases & Analytics.md",
     "5. ELB & ASG - Load Balancing & Auto Scaling Groups.md",
+    "1. Cloud Computing Basics.md",
     "2. IAM - Identity & Access Management.md",
     "New folder"
   ]
