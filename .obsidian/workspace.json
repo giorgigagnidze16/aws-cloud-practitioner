@@ -159,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ece4bb4b42e8b559",
+  "active": "8cdcba360dc890a0",
   "lastOpenFiles": [
-    "5. ELB & ASG - Load Balancing & Auto Scaling Groups.md",
-    "6. Amazon S3.md",
-    "2. IAM - Identity & Access Management.md",
     "1. Cloud Computing Basics.md",
+    "6. Amazon S3.md",
+    "5. ELB & ASG - Load Balancing & Auto Scaling Groups.md",
+    "2. IAM - Identity & Access Management.md",
     "New folder"
   ]
 }
