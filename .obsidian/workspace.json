@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f808ae5c0f3af6b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. Cloud Integrations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. AWS Global Infrastructure.md",
+                "file": "11. Cloud Integrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. AWS Global Infrastructure.md",
+                "file": "11. Cloud Integrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. AWS Global Infrastructure.md"
+                "file": "11. Cloud Integrations.md"
               }
             }
           }
@@ -159,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b26c6cb0258a9921",
+  "active": "f808ae5c0f3af6b9",
   "lastOpenFiles": [
+    "10. AWS Global Infrastructure.md",
+    "11. Cloud Integrations.md",
     "3. EC2 - Elastic Compute Cloud.md",
     "2. IAM - Identity & Access Management.md",
     "1. Cloud Computing Basics.md",
-    "10. AWS Global Infrastructure.md",
     "8. ECS, Lambda, Batch, Lightsail.md",
     "9. Infrastructure Deployments & Management.md",
     "6. Amazon S3.md",
