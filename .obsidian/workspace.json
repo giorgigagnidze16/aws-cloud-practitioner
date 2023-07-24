@@ -161,16 +161,16 @@
   },
   "active": "b26c6cb0258a9921",
   "lastOpenFiles": [
-    "9. Infrastructure Deployments & Management.md",
-    "10. AWS Global Infrastructure.md",
-    "6. Amazon S3.md",
-    "7. Databases & Analytics.md",
-    "8. ECS, Lambda, Batch, Lightsail.md",
-    "4. EC2 Instance Storage.md",
     "3. EC2 - Elastic Compute Cloud.md",
     "2. IAM - Identity & Access Management.md",
-    "5. ELB & ASG - Load Balancing & Auto Scaling Groups.md",
     "1. Cloud Computing Basics.md",
+    "10. AWS Global Infrastructure.md",
+    "8. ECS, Lambda, Batch, Lightsail.md",
+    "9. Infrastructure Deployments & Management.md",
+    "6. Amazon S3.md",
+    "7. Databases & Analytics.md",
+    "4. EC2 Instance Storage.md",
+    "5. ELB & ASG - Load Balancing & Auto Scaling Groups.md",
     "New folder"
   ]
 }
