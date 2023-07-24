@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cfb244db9c9448b3",
+        "id": "67d2d919ea2d5702",
         "type": "tabs",
         "children": [
           {
-            "id": "490e8c11755af41c",
+            "id": "a5e779859d376748",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. ELB & ASG - Load Balancing & Auto Scaling Groups.md",
+                "file": "9. Infrastructure Deployments & Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ece4bb4b42e8b559",
+            "id": "b26c6cb0258a9921",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Amazon S3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6853e02635788fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Databases & Analytics.md",
+                "file": "10. AWS Global Infrastructure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Databases & Analytics.md",
+                "file": "10. AWS Global Infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Databases & Analytics.md",
+                "file": "10. AWS Global Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Databases & Analytics.md"
+                "file": "10. AWS Global Infrastructure.md"
               }
             }
           }
@@ -171,13 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6853e02635788fef",
+  "active": "b26c6cb0258a9921",
   "lastOpenFiles": [
+    "9. Infrastructure Deployments & Management.md",
+    "10. AWS Global Infrastructure.md",
     "6. Amazon S3.md",
     "7. Databases & Analytics.md",
+    "8. ECS, Lambda, Batch, Lightsail.md",
+    "4. EC2 Instance Storage.md",
+    "3. EC2 - Elastic Compute Cloud.md",
+    "2. IAM - Identity & Access Management.md",
     "5. ELB & ASG - Load Balancing & Auto Scaling Groups.md",
     "1. Cloud Computing Basics.md",
-    "2. IAM - Identity & Access Management.md",
     "New folder"
   ]
 }
