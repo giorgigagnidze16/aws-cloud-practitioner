@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14. Security & Compliance.md",
+                "file": "9. Infrastructure Deployments & Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14. Security & Compliance.md",
+                "file": "9. Infrastructure Deployments & Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14. Security & Compliance.md",
+                "file": "9. Infrastructure Deployments & Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14. Security & Compliance.md"
+                "file": "9. Infrastructure Deployments & Management.md"
               }
             }
           }
@@ -161,13 +161,13 @@
   },
   "active": "8511fd218d6d5fc8",
   "lastOpenFiles": [
-    "13. VPC & Networking.md",
+    "10. AWS Global Infrastructure.md",
+    "11. Cloud Integrations.md",
     "14. Security & Compliance.md",
+    "13. VPC & Networking.md",
     "2. IAM - Identity & Access Management.md",
     "12. Monitoring.md",
     "9. Infrastructure Deployments & Management.md",
-    "11. Cloud Integrations.md",
-    "10. AWS Global Infrastructure.md",
     "3. EC2 - Elastic Compute Cloud.md",
     "1. Cloud Computing Basics.md",
     "8. ECS, Lambda, Batch, Lightsail.md",
